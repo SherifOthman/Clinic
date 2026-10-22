@@ -1,0 +1,45 @@
+{
+  "app": { "name": "Clinic", "tagline": "Clinic Management" },
+  "auth": {
+    "login": "Sign in",
+    "logout": "Sign out",
+    "username": "Username",
+    "password": "Password",
+    "welcomeBack": "Welcome back",
+    "signInToContinue": "Sign in to continue to your dashboard",
+    "invalidCredentials": "Invalid username or password",
+    "signingIn": "Signing in…"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "loading": "Loading…",
+    "back": "Back",
+    "actions": "Actions",
+    "status": "Status",
+    "name": "Name",
+    "confirm": "Confirm",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "notFound": "Page not found"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "patients": "Patients",
+    "appointments": "Appointments",
+    "queue": "Queue",
+    "consultations": "Consultations",
+    "billing": "Billing",
+    "users": "Users",
+    "settings": "Settings",
+    "facility": "Facility"
+  }
+}

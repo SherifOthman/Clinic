@@ -1,0 +1,45 @@
+{
+  "app": { "name": "العيادة", "tagline": "إدارة العيادة" },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "welcomeBack": "مرحباً بعودتك",
+    "signInToContinue": "سجّل الدخول للمتابعة إلى لوحة التحكم",
+    "invalidCredentials": "اسم المستخدم أو كلمة المرور غير صحيحة",
+    "signingIn": "جارٍ تسجيل الدخول…"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "search": "بحث",
+    "loading": "جارٍ التحميل…",
+    "back": "رجوع",
+    "actions": "إجراءات",
+    "status": "الحالة",
+    "name": "الاسم",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "yes": "نعم",
+    "no": "لا",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "notFound": "الصفحة غير موجودة"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "patients": "المرضى",
+    "appointments": "المواعيد",
+    "queue": "قائمة الانتظار",
+    "consultations": "الكشف الطبي",
+    "billing": "الفواتير",
+    "users": "المستخدمون",
+    "settings": "الإعدادات",
+    "facility": "المنشأة"
+  }
+}
